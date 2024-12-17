@@ -1,0 +1,14 @@
+/Users/elgun668icloud.com/RiderProjects/ConsoleAppVB1/ConsoleAppVB1/bin/Debug/net9.0/ConsoleAppVB1
+/Users/elgun668icloud.com/RiderProjects/ConsoleAppVB1/ConsoleAppVB1/bin/Debug/net9.0/ConsoleAppVB1.deps.json
+/Users/elgun668icloud.com/RiderProjects/ConsoleAppVB1/ConsoleAppVB1/bin/Debug/net9.0/ConsoleAppVB1.runtimeconfig.json
+/Users/elgun668icloud.com/RiderProjects/ConsoleAppVB1/ConsoleAppVB1/bin/Debug/net9.0/ConsoleAppVB1.dll
+/Users/elgun668icloud.com/RiderProjects/ConsoleAppVB1/ConsoleAppVB1/bin/Debug/net9.0/ConsoleAppVB1.pdb
+/Users/elgun668icloud.com/RiderProjects/ConsoleAppVB1/ConsoleAppVB1/obj/Debug/net9.0/ConsoleAppVB1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elgun668icloud.com/RiderProjects/ConsoleAppVB1/ConsoleAppVB1/obj/Debug/net9.0/ConsoleAppVB1.AssemblyInfoInputs.cache
+/Users/elgun668icloud.com/RiderProjects/ConsoleAppVB1/ConsoleAppVB1/obj/Debug/net9.0/ConsoleAppVB1.AssemblyInfo.vb
+/Users/elgun668icloud.com/RiderProjects/ConsoleAppVB1/ConsoleAppVB1/obj/Debug/net9.0/ConsoleAppVB1.vbproj.CoreCompileInputs.cache
+/Users/elgun668icloud.com/RiderProjects/ConsoleAppVB1/ConsoleAppVB1/obj/Debug/net9.0/ConsoleAppVB1.dll
+/Users/elgun668icloud.com/RiderProjects/ConsoleAppVB1/ConsoleAppVB1/obj/Debug/net9.0/refint/ConsoleAppVB1.dll
+/Users/elgun668icloud.com/RiderProjects/ConsoleAppVB1/ConsoleAppVB1/obj/Debug/net9.0/ConsoleAppVB1.pdb
+/Users/elgun668icloud.com/RiderProjects/ConsoleAppVB1/ConsoleAppVB1/obj/Debug/net9.0/ConsoleAppVB1.genruntimeconfig.cache
+/Users/elgun668icloud.com/RiderProjects/ConsoleAppVB1/ConsoleAppVB1/obj/Debug/net9.0/ref/ConsoleAppVB1.dll
